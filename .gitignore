@@ -1,0 +1,13 @@
+## Compiler
+
+out
+raw
+
+## OS Specific
+
+.DS_Store
+Thumbs.db
+
+## Special Tools
+
+build.bat

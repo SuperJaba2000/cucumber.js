@@ -1,0 +1,29 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "JavaScript code compiler and minifier for Node js",
+  "main": "compiler.js",
+  
+  "scripts": {
+    "build": "node compiler.js",
+    "test": ""
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperJaba2000/cucumber.js.git"
+  },
+  
+  "keywords": [
+    "curtain"
+  ],
+  
+  "author": "SuperJaba2000",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/SuperJaba2000/cucumber.js/issues"
+  },
+  
+  "homepage": "https://github.com/SuperJaba2000/cucumber.js#readme"
+}
